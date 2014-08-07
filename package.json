@@ -1,0 +1,42 @@
+{
+  "name": "css-minimizers-bench",
+  "version": "0.0.0",
+  "description": "Сompares the work of CSS minimizers",
+  "keywords": [
+    "css",
+    "minimizers",
+    "bench",
+    "css-minimizers-bench"
+  ],
+  "homepage": "https://github.com/eGavr/css-minimizers-bench",
+  "bugs": "https://github.com/eGavr/css-minimizers-bench/issues",
+  "author": {
+    "name": "Evgeniy Gavryushin",
+    "email": "job.egavr@yandex.ru",
+    "url": "https://github.com/eGavr"
+  },
+  "main": "lib/index.js",
+  "bin": {
+    "compare-minimizers": "./bin/compare-minimizers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eGavr/css-minimizers-bench.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "csso": "^1.3.11",
+    "clean-css": "^2.2.12",
+    "cssshrink": "0.0.5",
+    "colors": "^0.6.2"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
