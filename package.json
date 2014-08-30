@@ -31,7 +31,8 @@
     "csswring": "1.2.3"
   },
   "devDependencies": {
-    "colors": "0.6.2"
+    "colors": "0.6.2",
+    "benchmark": "1.0.0"
   },
   "engines": {
     "node": ">=0.8.0",
