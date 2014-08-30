@@ -10,6 +10,8 @@
 
 * [cssshrink](https://github.com/stoyan/cssshrink)
 
+* [csswring](https://github.com/hail2u/node-csswring)
+
 ## Install
 
 ```bash
