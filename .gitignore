@@ -1,3 +1,4 @@
 node_modules/
+
 css/min/
-.DS_Store
+css/arch/
