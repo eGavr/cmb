@@ -1,4 +1,4 @@
-# css-minimizers-benchmark (CMB)
+# CSS Minimizer Benchmark (CMB)
 
 Сompares the work of **CSS** minimizers.
 
@@ -21,14 +21,22 @@
 ## Install
 
 ```bash
-$ git clone https://github.com/eGavr/css-minimizers-benchmark.git
+$ git clone https://github.com/eGavr/cmb.git
 
-$ cd css-minimizers-benchmark
+$ cd cmb
 
 $ npm install
 ```
 
 ## Usage
+
+Just run:
+
+```bash
+$ bin/cmb
+```
+
+More details:
 
 ```bash
 $ bin/cmb --help
