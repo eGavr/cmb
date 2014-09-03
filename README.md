@@ -31,11 +31,11 @@ $ npm install
 ## Usage
 
 ```bash
-$ bin/compare-minimizers --help
+$ bin/cmb --help
 Сompares the work of CSS minimizers
 
 Usage:
-  compare-minimizers [OPTIONS]
+  cmb [OPTIONS]
 
 Options:
   -h, --help : Help

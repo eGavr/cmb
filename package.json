@@ -17,7 +17,7 @@
   },
   "main": "lib/index.js",
   "bin": {
-    "compare-minimizers": "./bin/compare-minimizers"
+    "compare-minimizers": "./bin/cmb"
   },
   "repository": {
     "type": "git",
