@@ -31,7 +31,16 @@ $ npm install
 ## Usage
 
 ```bash
-$ bin/compare-minimizers
+$ bin/compare-minimizers --help
+Сompares the work of CSS minimizers
+
+Usage:
+  compare-minimizers [OPTIONS]
+
+Options:
+  -h, --help : Help
+  -v, --version : Shows the version number
+  -o OUTPUT, --output=OUTPUT : Path to the result output file
 ```
 
 ## Configuration
