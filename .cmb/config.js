@@ -1,7 +1,8 @@
 var path = require('path'),
     fs = require('fs'),
-    minimize = require('./utils').minimize,
-    archive = require('./utils').archive;
+    utils = require('../lib/utils'),
+    minimize = utils.minimize,
+    archive = utils.archive;
 
 module.exports = {
     // each method is the imitation of the usage of some minimizer
