@@ -1,5 +1,4 @@
 var path = require('path'),
-    fs = require('fs'),
     utils = require('../lib/utils'),
     minimize = utils.minimize,
     archive = utils.archive;
