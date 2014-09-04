@@ -13,7 +13,7 @@ module.exports = {
     },
     // each method is the imitation of the usage of some archiver
     archivers: {
-        gzip: archive('gzip -k [FILE_PATH] && mv [FILE_PATH].gz [TO_ARCH_CSS]', '.gz')
+        gzip: archive('gzip -k [FILE_PATH]', '.gz')
     },
     // input and output
     paths: {
