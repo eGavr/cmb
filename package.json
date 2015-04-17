@@ -25,15 +25,15 @@
   },
   "license": "MIT",
   "dependencies": {
-    "clean-css": "2.2.12",
-    "csso": "1.3.11",
-    "cssshrink": "0.0.5",
-    "csswring": "1.2.3"
+    "clean-css": "2.2.23",
+    "csso": "1.3.10",
+    "cssshrink": "0.0.4",
+    "csswring": "1.2.4"
   },
   "devDependencies": {
-    "colors": "0.6.2",
+    "colors": "0.6.1",
     "shelljs": "0.3.0",
-    "coa": "0.4.1"
+    "coa": "0.4.0"
   },
   "engines": {
     "node": ">=0.8.0",
